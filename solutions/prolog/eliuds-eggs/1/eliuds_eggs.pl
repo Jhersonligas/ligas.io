@@ -1,0 +1,1 @@
+egg_count(EncodedCount, Count) :- Count is popcount(EncodedCount).
